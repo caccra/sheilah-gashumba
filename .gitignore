@@ -1,0 +1,7 @@
+# Raw photo collection and screenshots (not used by the site)
+assets/images/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
